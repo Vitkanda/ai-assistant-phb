@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Env files
+.env
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage reports
+coverage/
+
+# Output from TypeScript
+*.tsbuildinfo
+
+# Doc temporary files
+help.docx
